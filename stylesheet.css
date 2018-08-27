@@ -2,7 +2,7 @@ a:hover{
 	color: #7ac673;
 }
 
-a.fa {
+a.fa, .fa  {
     font-size: 50px;
     color: #7ac673;
     margin: 10px;
