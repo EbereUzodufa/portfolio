@@ -1,6 +1,7 @@
 # portfolio.github.io
 
-<a href="https://ebereuzodufa.github.io/portfolio/"  target="blank">View here</a>
+[View Here](https://ebereuzodufa.github.io/portfolio/)
 
-<h1>Overview</h1>
+# Overview
 This is a repository built from my Udacity Front-End web class.
+The project showcases my ability to make website very responsive.
